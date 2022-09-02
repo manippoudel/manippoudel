@@ -5,9 +5,15 @@ I am also learning different DevOps tools and technologies.
 
 Have Experience  with following tools and technologies:
 
+- Backend Technologies:
+     - Django
+     - Django Rest framework
+
 - Cloud Providers:
      - AWS 
+          - CloudFront, IAM, LoadBalancer, Route53, EC2, Beanstalk, Code Pipeline, Code Build, S3, Lambda, RDS.
      - GCP
+          - App Engine, Cloud SQL, Cloud DNS, Cloud Function, Cloud Load Balancer, Cloud DNS.
 
 - Database:
   - MySQL
@@ -19,4 +25,3 @@ Have Experience  with following tools and technologies:
  - Webservers: 
     - Nginx
   
-
